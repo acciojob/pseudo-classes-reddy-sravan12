@@ -3,17 +3,17 @@
 	background-color:rgb(135,206,235);
 }
 
-section :first-child{
+article :first-child{
 	color:white;
 	background-color:black;
 }
 
-section :nth-child(2){
+article :nth-child(2){
 	width:50%;
 	
 }
 
-section :last-child{
+article :last-child{
 	color:red;
 }
 
